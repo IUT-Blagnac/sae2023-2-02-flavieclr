@@ -5,7 +5,7 @@ import org.junit.runners.JUnit4;
 import exercice.Simplicite;
 import java.util.*;
 
-public class ExerciceTest {
+public class SimpliciteTest {
     @Test
     public void testSolution() {
         // Chaine simple avec ordre complet
